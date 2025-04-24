@@ -38,7 +38,6 @@
 </template>
 
 <script setup lang="ts">
-import { computed } from 'vue';
 import { useUserStore } from '@/store/userStore';
 import AppErrorBanner from '@/components/AppErrorBanner.vue';
 import AppButton from '@/components/AppButton.vue';
